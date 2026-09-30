@@ -7,7 +7,9 @@ Team **INVICTUS** (Team ID 159400)
 **Solution video:** https://youtu.be/o2jbTQCLLzo
 **Presentation:** [presentation/SIH26232_INVICTUS_Presentation.pdf](presentation/SIH26232_INVICTUS_Presentation.pdf)
 
-![Prototype](images/prototype.jpg)
+![Working prototype](images/prototype.jpg)
+
+*Our working prototype: the insulated cold box with the ESP32 node and sensors, connected to the monitoring dashboard on the laptop.*
 
 ## The problem
 
